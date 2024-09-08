@@ -1,1 +1,1 @@
-# Channel-robust Speech Recognition Leveraging Channel-aware Domain-adaptive Data Simulation
+# Channel-Aware Domain-Adaptive Generative Adversarial Network for Robust Speech Recognition
